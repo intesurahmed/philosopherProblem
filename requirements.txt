@@ -1,0 +1,9 @@
+# Runtime requirements for the JADE Dining Philosophers example
+
+Java Development Kit (JDK) 8 or newer
+JADE 4.6.0
+
+# JADE is bundled in this repository at:
+# ../../../JADE-all-4.6.0/jade/lib/jade.jar
+#
+# Swing and AWT are provided by the JDK. No Python packages are required.
